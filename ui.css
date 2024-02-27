@@ -4,8 +4,19 @@ body{
     margin: 0;
     padding: 0;
     font-family: 'League Spartan', sans-serif;
+    font-weight: 600;
 }
 
 li{
     list-style: none;
+}
+
+.sideNav{
+    background-color: #89CFF0;  
+    padding-inline: 20px;
+    position: fixed;
+}
+
+.sideNav li{
+    margin-top: 3.5vh;
 }
